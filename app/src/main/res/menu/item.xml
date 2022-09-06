@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home"/>
+
+    <item android:title="Workout"
+        android:id="@+id/workout"
+        android:icon="@drawable/power"/>
+
+    <item android:title="Health Care"
+        android:id="@+id/healthcare"
+        android:icon="@drawable/alarm"/>
+
+    <item android:title="Meditation"
+        android:id="@+id/meditation"
+        android:icon="@drawable/brain"/>
+
+    <item android:title="Affermation"
+        android:id="@+id/affermation"
+        android:icon="@drawable/waves"/>
+</menu>
